@@ -147,14 +147,6 @@ The test suite covers:
 - Edge cases (capacity = 1)
 - Thread safety with concurrent access
 
-## Interview Talking Points
-
-1. **Why HashMap + DLL?** Combines fast lookup with ordered structure
-2. **Why dummy nodes?** Simplifies edge cases and reduces bugs
-3. **Why coarse-grained lock?** Correctness first, optimize later
-4. **O(1) guarantee?** All operations use direct references, no iteration
-5. **Alternative designs?** OrderedDict (simpler but less educational), arrays (O(n) operations)
-
 This implementation demonstrates:
 - Strong understanding of data structures
 - Ability to balance correctness and performance
