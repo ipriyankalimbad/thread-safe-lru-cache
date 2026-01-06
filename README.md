@@ -1,6 +1,6 @@
 # Thread-Safe LRU Cache Implementation
 
-A clean, interview-grade implementation of a Least Recently Used (LRU) Cache in Python, designed to meet Microsoft-level engineering standards.
+A clean implementation of a Least Recently Used (LRU) Cache in Python, designed to meet engineering standards.
 
 ## Design Rationale
 
